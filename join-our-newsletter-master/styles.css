@@ -50,6 +50,13 @@ input::placeholder {
 
 .wrapper button {
   margin-top: 30px;
+  width: 90%;
+  height: 25%;
+  background-color: #284BCE;
+  color: #fff;
+  border-radius: 10px;
+  border: solid 2px #284BCE;
+  font-weight: 600;
 }
 
 .wrapper p {
